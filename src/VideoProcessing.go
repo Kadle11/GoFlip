@@ -69,6 +69,6 @@ func main() {
 
 	allFrames, FrameWidth, FrameHeight := getVideoFrames("../data/"+os.Args[1])
 	allFrames = convAllFrames(allFrames)
-	makeFlipBook(allFrames, FrameWidth, FrameHeight, 10, "../data/flipBook_Test.avi")
+	makeFlipBook(allFrames, FrameWidth, FrameHeight, 10, "../data/"+os.Args[2])
 
 }
