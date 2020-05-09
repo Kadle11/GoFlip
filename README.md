@@ -8,9 +8,10 @@ go run *.go <NameOfVideo> <NameOfDest>
 ```
 
 ### Original Video
-<img src=https://github.com/Kadle11/GoFlip/blob/master/data/OriginalVid.gif " width="100">
+<img src="https://github.com/Kadle11/GoFlip/blob/master/data/OriginalVid.gif" width="750">
+
 ### Resulting Video
-<img src=https://github.com/Kadle11/GoFlip/blob/master/data/FlipBook.gif " width="100">
+<img src="https://github.com/Kadle11/GoFlip/blob/master/data/FlipBook.gif" width="750">
 
 
 
